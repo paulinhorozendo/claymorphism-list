@@ -1,7 +1,7 @@
 # Claymorphism List Hover Effects | Html CSS
 
 ## O que é Claymorphism? 🤔
-- É uma tendência comum de interface de usuário que faz com que os elementos da interface do usuário no web design pareçam argila(clay).
+- É uma tendência comum de interface de usuário que faz com que os elementos pareçam argila(clay).
 - Essa tendência de design gráfico já está sendo usada por bancos, jogos e nfts.
 - Criei uma lista com as principais tecnologias que serão cada vez mais usadas em 2022.
 
