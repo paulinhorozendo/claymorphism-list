@@ -6,4 +6,5 @@
 - Criei uma lista com as principais tecnologias que serão cada vez mais usadas em 2022.
 
  
-![Captura de tela 2022-02-01 184137](https://user-images.githubusercontent.com/81476932/152056161-140b110d-7be1-4b6a-972f-2b902e457862.png)
+![Captura de tela 2022-02-02 095727](https://user-images.githubusercontent.com/81476932/152163353-05890903-74c4-4c9a-9bf1-33689acdd774.png)
+
